@@ -23,6 +23,6 @@ const me = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Project One](https://github.com/eye54067/robot-selenium-practice) | Hands-on for automation testing | Robot framework, SeleniumLibrary |
+| [robot-selenium-pracetice](https://github.com/eye54067/robot-selenium-practice) | Automation testing | Robot framework, Selenium |
 
 
