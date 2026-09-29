@@ -18,7 +18,7 @@ const me = {
   fullName: "Thanaporn Cheenthada",
   nickName: "Eye",
   role: "QA",
-  currentlyBuilding: "Hands-on projects for automation testing🚀",
+  currentlyBuilding: "Hands-on Automation Testing Projects 🚀",
   learning: ["Robot Framework + SeleniumLibrary", "Cypress", "Playwright", "Python", "Javascript"],
   Quote: "",
 };
@@ -33,7 +33,7 @@ const me = {
 </div>
 
 ## 📊 GitHub Stats
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eye54067&show_icons=true&theme=tokyonight)
 
 ## 🔥 Featured Projects
 
@@ -41,23 +41,4 @@ const me = {
 |---------|-------------|-------|
 | [Project One](https://github.com/eye54067/robot-selenium-practice) | Hands-on for automation testing | Robot framework, SeleniumLibrary |
 
-<details>
-<summary>🎲 A few random facts about me</summary>
 
-- I love late-night coding sessions
-- My first program was a "Hello, World!"
-- Ask me about my favorite book
-
-</details>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eye54067@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eyecheenthada)
-
-
-*⭐ If you like what you see, drop a star on one of my repos!*
-
-</div>
