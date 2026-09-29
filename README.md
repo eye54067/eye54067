@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I'm%20Eye&fontSize=38&fontAlignY=35" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Manual+QA;Transitioning+To+Hybrid QA;Coffee+%E2%86%92+Code+%E2%86%92+Repeat"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%2C%20I'm%20Eye&fontSize=32&fontAlignY=32" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eye54067&color=blueviolet&style=flat-square)
 
