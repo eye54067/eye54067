@@ -15,7 +15,7 @@ const me = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=github,selenium,cypress,python,pgadmin4,html&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,selenium,cypress,python,posgress,html&perline=9)](https://skillicons.dev)
 
 </div>
 
