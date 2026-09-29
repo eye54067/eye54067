@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Manual+QA;Transitioning+To+Hybrid QA;Coffee+%E2%86%92+Code+%E2%86%92+Repeat" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=eye54067&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -17,10 +17,11 @@
 ```js
 const me = {
   fullName: "Thanaporn Cheenthada",
+  nickName: "Eye",
   role: "QA",
   currentlyBuilding: "Hands-on projects for automation testing🚀",
-  learning: ["Robot Framework + SeleniumLibrary", "Cypress", "Playwright"],
-  funFact: "",
+  learning: ["Robot Framework + SeleniumLibrary", "Cypress", "Playwright", "Python", "Javascript"],
+  Quote: "",
 };
 ```
 
@@ -45,15 +46,14 @@ const me = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Project One](https://github.com/USERNAME/project-one) | What it does in one line | React, Node |
-| [Project Two](https://github.com/USERNAME/project-two) | What it does in one line | Python |
+| [Project One](https://github.com/eye54067/robot-selenium-pracetice) | What it does in one line | React, Node |
 
 <details>
 <summary>🎲 A few random facts about me</summary>
 
 - I love late-night coding sessions
 - My first program was a "Hello, World!"
-- Ask me about my favorite keyboard
+- Ask me about my favorite book
 
 </details>
 
