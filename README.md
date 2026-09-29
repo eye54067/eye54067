@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%2C%20I'm%20Eye&fontSize=32&fontAlignY=32" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=eye54067&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```js
@@ -25,7 +15,7 @@ const me = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,git,sql,html,linux&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=robotframework,selenium,cypress,playwright,python,git,sql,html,linux&perline=9)](https://skillicons.dev)
 
 </div>
 
