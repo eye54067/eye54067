@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I'm%20Eye%20Cheenthada&fontSize=42&fontAlignY=35" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Manual+QA;Transitioning+To+Hybrid QA;Coffee+%E2%86%92+Code+%E2%86%92+Repeat" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Manual+QA;Transitioning+To+Hybrid QA;Coffee+%E2%86%92+Code+%E2%86%92+Repeat"/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eye54067&color=blueviolet&style=flat-square)
 
@@ -29,24 +28,18 @@ const me = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,postgres,linux&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,git,sql,html,linux&perline=9)](https://skillicons.dev)
 
 </div>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eye54067&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eye54067&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🔥 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Project One](https://github.com/eye54067/robot-selenium-pracetice) | What it does in one line | React, Node |
+| [Project One](https://github.com/eye54067/robot-selenium-practice) | Hands-on for automation testing | Robot framework, SeleniumLibrary |
 
 <details>
 <summary>🎲 A few random facts about me</summary>
