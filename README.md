@@ -15,12 +15,9 @@ const me = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=robotframework,selenium,cypress,playwright,python,git,sql,html,linux&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=robot,selenium,cypress,playwright,python,git,pgadmin4,html&perline=9)](https://skillicons.dev)
 
 </div>
-
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eye54067&show_icons=true&theme=tokyonight)
 
 ## 🔥 Featured Projects
 
