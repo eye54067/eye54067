@@ -24,7 +24,7 @@ const me = {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [robot-selenium-practice](https://github.com/eye54067/robot-selenium-practice) | Learn basic robot framework | Robot framework, Selenium |
-| []() | Learn basic cypress | cypress |
+| [cypress-practice](https://github.com/eye54067/cypress-practice) | Learn basic cypress | cypress |
 | []() | Learn basic playwright | playwright |
  
 
