@@ -23,6 +23,6 @@ const me = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [robot-selenium-practice](https://github.com/eye54067/robot-selenium-practice) | Automation testing | Robot framework, Selenium |
+| [robot-selenium-practice](https://github.com/eye54067/robot-selenium-practice) | Learn basic robot framework | Robot framework, Selenium |
 
 
