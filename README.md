@@ -19,7 +19,7 @@ const me = {
 
 </div>
 
-## 🔥 Featured Projects
+## 🔥 Hands-on Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
