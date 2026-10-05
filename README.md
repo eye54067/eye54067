@@ -2,7 +2,7 @@
 
 ```js
 const me = {
-  fullName: "Thanaporn Cheenthada",
+  fullName: "Thanapohn Cheenthada",
   nickName: "Eye",
   role: "QA",
   currentlyBuilding: "Hands-on Automation Testing Projects 🚀",
