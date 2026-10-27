@@ -25,7 +25,7 @@ const me = {
 |---------|-------------|-------|
 | [robot-selenium-practice](https://github.com/eye54067/robot-selenium-practice) | Learn basic robot framework | Robot framework, Selenium |
 | [cypress-practice](https://github.com/eye54067/cypress-practice) | Learn basic cypress | cypress, javascript |
-| [playwright](https://github.com/eye54067/playwright-practice) | Learn basic playwright | playwright, javascript |
+| [playwright-practice](https://github.com/eye54067/playwright-practice) | Learn basic playwright | playwright, javascript |
  
 
 
